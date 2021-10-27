@@ -3,9 +3,11 @@
 ## Hello, I'm Ben
 ### *Seeking employment opportunities throughout Minnesota, open to all remote positions*
 
-- Full stack web enthusiast.
-- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
-- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
-- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
+- Web Developer with a background in Supply Chain management. Experience working with JavaScript, React, Redux, Node.js, Python, HTML, CSS, and Git.
+- Graduate of:
+  - Lambda School - Full Stack Web Development
+  - Missouri Southern State University - Bachelor of Business Administration: Finance and Economics - Finance Emphasis
+  - Ozark Christian College - Bachelor of Arts in Bi-Vocational Christian Ministry: Business and Administration
+- Passionate about music, movies, games, and the outdoors. Backpacked the 310 mile Superior Hiking Trail last fall and would love to chat about the experience! 
 
 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/rasmussen-ben/), [Email](rasmussen.ben32@gmail.com)
