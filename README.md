@@ -1,5 +1,11 @@
-![Banner image](https://lh3.googleusercontent.com/k-aL_uP70_LPFKlR885hxcUJlYT0xXdr0nvzKIPTU0RxovmqmfrXnlREzZihV4bN8H0YFfL0s6UWQPlzDmzahgJoYsNhVRFuPry2jd5z_Q636rwt81aNmwGwDelsarotsd9ANkJzQRaDKZx7ToszJNGAlA139yk-kqFhM1z1wBNbSaYtZNbDgrv7d2ZVgJ7owHiolY2LzLz4mBRyt6N6QZvy-dgSh1k3QMfFsQiSn_isAX2Xd1VO2SxvuOMi3ZkABq72zQs6Y4x9fr9uw_7MnDsu9pktCaaRdSRmjuv2U7qM25ng3HfvtYHa5ALTaZtPka0rJwKypIHCudvvX1DFzeoq0j0L98QUtBf_DKJtH_1pdabrMx-0ljPZUPGeyi-dXUZXLeJTWJRJpuWOI6-2pF_5JxeSo_MjD5cx13rJk06j8rYcHHVlmoWncFhhzUNhsuwaxJhUF1VmXCUk5j_AifrFdRrMlYipSaF__cyvVkhvVQYmdXD72Ex2qBUnH_5HM_QY3UXb2Fy2NdK1mbdIfy4RGTIk8ODp2jXqeK8aG2lGApO1gNebEC43HaH-m_XNu8ufAKlGizrwYbVZCT4aQKBIMHsktEbcvBfumq1mo9Gw0fxIwxP3q1l_sJS8xn5UQlmdYuwf_4TdXk88Kl3EX2waN2yyLbMYRzNSvh8zj_4vX8MvKUTf0LvYjybUitTquhsk6I88Y5oW6b7VM1H0uJE=w1560-h530-no?authuser=0)
+![Banner image](https://lh3.googleusercontent.com/RbjDSlL2iMdV1Kt-6r3p-BbbtnZNUrhPqhL_tiKamnapKDMrpkDTX_EuzN1N7pnIehT4_R2pemubKHB0_VGu7XWwXAUQCZFGCIZouSptYHhjMZAptQ-gtCeK-Ti-J3YshYDU6jnLLXdJoo_JyPhRKV5mhkY36OgOxshXoCElLG0NeSJVxgMl6Xh_-p2_6-BAiVHcxC1bVxdEAAySqTggrlsc7-oraYAY8ObJPfbA_mDtmCT9BzazniBqMdA7BPWeRHTVESSpX6bljknKS_TqcSTzdhLCbKK6PiRspaOK01f4gPnvapVJC520tJ0ZOi-1ilEnENSLYAvdSCzhy3ZYexDfp7qx8AxmM78ojJi__f6zzTC2kZslm109F_tOFI4dqXGpjahSkeWLfMZujnplOvWEeN7rPHJNnTHUUI-S9RkVLVtTcu4xErH5FI995fA7CXdxgKWCu9-YH5e8_MbP__46ooGHboiLN64RljOlQXQw3qzbRvOYGtV-a6GOKc2PaY_9EbLjNbHJmr3AErQQXY8Fw90qi5Zop8ydafqyl_gkcQFyKyg7cRVOcMdJ4GdWLjiPssU5gEkotKAUVp5lznLL5Yq9HscsBQHACUDDoQyMXT1LNpkBruMf6eedKv3M_mO6uogb0xD6fKVbAlgM6fpTGMTMxkvOSQP4MBjyEYWxh-DuzBySIJ5sjL1omUVl-dwGholG-YSuDtm8IEHPot8=w1560-h307-no?authuser=0)
 
+## Hello, I'm Ben
+### *Seeking employment opportunities throughout Minnesota, open to all remote positions*
 
-### Hello, I'm Ben 👋
+- Full stack web enthusiast.
+- A final year student at Rajshahi University of Engineering & Technology [(RUET)](https://www.ruet.ac.bd/), completing my BSc. degree in Computer Science & Engineering (CSE). 
+- Currently working on Risk Factors Analysis of Musculoskeletal Pain in Clinical Practice.
+- **Latest Publication**: Classification of Parkinson's Disease by Analyzing Multiple Vocal Features Sets *(Accepted in TENSYMP 2020)*
 
+**Connect with me:** [LinkedIn](https://www.linkedin.com/in/rasmussen-ben/), [Email](rasmussen.ben32@gmail.com)
